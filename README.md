@@ -1,0 +1,1 @@
+Scripts para montar ambiente básico linux para desenvolvimento
